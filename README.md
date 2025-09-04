@@ -7,7 +7,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/WigglyMuffin/Questionable?style=for-the-badge&logo=github&color=brightgreen)](https://github.com/WigglyMuffin/Questionable/releases)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pngyvpYVt2)
 
-### This version of Questionable is independent and unaffiliated with Punish's version of Questionable or any derivatives thereof. Due to fundamental disagreements regarding project direction, I maintain no involvement with Punish or any associated repositories, forks, or derivative projects, and do not contribute to, collaborate with, or endorse their development efforts.
+### This version of Questionable is independent and unaffiliated with Punish's (PunishXIV) version of Questionable or any derivatives thereof. Due to fundamental disagreements regarding project direction, I maintain no involvement with Punish or any associated repositories, forks, or derivative projects, and do not contribute to, collaborate with, or endorse their development efforts.
 
 ---
 
